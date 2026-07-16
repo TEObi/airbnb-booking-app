@@ -45,7 +45,3 @@ A booking application built with [technology stack to be documented].
 ## https://platform.claude.com/dashboard, 
 ## https://platform.claude.com/settling/billing
 
-## FROM - console.cloud.google.com
-## CLIENT ID = 414285489507-8g9iaahoui09aran6odfm3vsh3ab47jc.apps.googleusercontent.com
-
-## CLIENT SECRET =  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
